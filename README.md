@@ -25,9 +25,10 @@ We built a convolutional neural network (CNN) to classify images based on the pr
 ---
 
 ## 🚀 Results
-- Successfully classified fire vs non-fire images  
-- Demonstrated a real-world safety application  
-- 🥇 **1st Place Winner – UH AI Hackathon**  
+- Generated predictions for 300 unseen test images
+- Achieved **95.7% accuracy (0.95666 score)** on the final Kaggle leaderboard
+- Ranked **🥇 1st Place overall** in the UH AI Hackathon competition
+- Built a complete end-to-end image classification pipeline using CNNs
 
 ---
 
