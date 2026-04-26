@@ -32,6 +32,13 @@ We built a convolutional neural network (CNN) to classify images based on the pr
 
 ---
 
+## 🏆 Competition Result
+![Leaderboard](leaderboard.png)
+
+Achieved a score of **0.95666** and ranked **1st place** on the final leaderboard.
+
+---
+
 ## 💻 Tech Stack
 - Python  
 - PyTorch  
@@ -41,3 +48,12 @@ We built a convolutional neural network (CNN) to classify images based on the pr
 
 ## 📂 Project Files
 - `wildfire_detection_cnn.ipynb` – main model and training pipeline  
+
+---
+
+## 👥 Team
+This project was developed collaboratively during the UH AI Hackathon.
+
+- Maria Zamora  
+- Philip Le
+- Matthias Rodriguez
